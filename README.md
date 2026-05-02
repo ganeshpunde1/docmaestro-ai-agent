@@ -1,6 +1,6 @@
 #   Autonomous Document Processing & Compliance Agent (DocMaestroAI)
 
-DocMaestroAI is an AI-driven autonomous document processing system that extracts, classifies, validates, and ensures compliance of structured and unstructured documents using LangChain, LangGraph, and multi-agent frameworks (CrewAI / AutoGen).
+DocMaestroAI is an AI-driven autonomous document processing system that extracts, classifies, validates, and ensures compliance of structured and unstructured documents using FASTAPI , LangChain, LangGraph, and multi-agent frameworks (CrewAI / AutoGen).
 
 ---
 
